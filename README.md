@@ -1,6 +1,8 @@
 ## CSS3 animation experiment
 
-html, css3, js
+*html
+*css3
+*js
 
 
 
