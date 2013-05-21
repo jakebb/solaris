@@ -1,6 +1,6 @@
 ## CSS3 animation experiment
 
-**** Technique:
+#### Technique:
 html, css3, js
 
 - Acts as an web-app when saved on an IOS device
