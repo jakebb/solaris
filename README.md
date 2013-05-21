@@ -1,9 +1,7 @@
 ## CSS3 animation experiment
 
-
-* html
-* css3
-* js
+**** Technique:
+html, css3, js
 
 - Acts as an web-app when saved on an IOS device
 - Try the Konami code
