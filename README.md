@@ -1,5 +1,5 @@
-Alt-H2 Solaris - CSS3 animation experiment
-
+Solaris - CSS3 animation experiment
+======
 #### Technique:
 html, css3, js
 
