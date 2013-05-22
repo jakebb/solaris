@@ -1,10 +1,5 @@
 Solaris - CSS3 animation experiment
 ======
-## Dependencies
--webkit enabled browser (Chrome, Safari)
-
-#### Technique
-html, css3, js
 
 #### Features
 - CSS3 scale model of solar system
@@ -16,6 +11,9 @@ html, css3, js
 
 ### Demo
 http://jakobebbinger.se/solaris/
+
+## Dependencies
+-webkit enabled browser (Chrome, Safari)
 
 ## License
 Attribution-NonCommercial-ShareAlike 3.0 Unported 
