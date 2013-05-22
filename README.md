@@ -1,9 +1,12 @@
 Solaris - CSS3 animation experiment
 ======
-#### Technique:
+#### Technique
 html, css3, js
 
-#### Features:
+## Dependencies
+-webkit enabled browser (Chrome, Safari)
+
+#### Features
 - CSS3 scale model of solar system
 - Animated planetarium
 - Somewhat correct scale
