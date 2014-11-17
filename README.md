@@ -10,7 +10,7 @@ Solaris - CSS3 animation experiment
 - Konami code easter egg
 
 ### Demo
-http://jakobebbinger.se/solaris/
+http://codepen.io/thepoka/pen/zGfec
 
 ## Dependencies
 -webkit enabled browser (Chrome, Safari)
